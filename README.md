@@ -2,4 +2,4 @@
 
 All documentation for this SEM and many, many others can be found [here](https://drive.google.com/drive/folders/1kHMsw_-iYlvwElDAo1szjx7huENmmcO2?usp=sharing)
 
-![DS-130C Image](image.jpg)
+![DS-130C Image](Misc/image.jpg)
